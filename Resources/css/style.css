@@ -1,0 +1,31 @@
+* {
+  font-family: Helvetica;
+}
+body {
+  text-align: center;
+}
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+h1 h2 h3 {
+  font-weight: bold;
+}
+p {
+  font-size: 14px
+}
+nav {
+  font-size: 18px;
+}
+footer {
+  text-align: left;
+  font-size: 11px;
+}
+#Copyright {
+  font-size: 11px;
+}
